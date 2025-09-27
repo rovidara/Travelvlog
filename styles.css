@@ -20,3 +20,24 @@ h1{
     margin: 20px auto;
     max-width: 100%;
     text-align: right;}
+
+    .kalpitiyaimage{
+        width: 500px;
+        height: 400px;
+        border-radius: 8px;
+        margin: 10px;
+    }
+
+    .sigiriyaimage{
+        width: 500px;
+        height: 400px;
+        border-radius: 8px;
+        margin: 10px;
+    }
+
+    .ellaimage{
+        width: 500px;
+        height: 400px;
+        border-radius: 8px;
+        margin: 10px;
+    }
